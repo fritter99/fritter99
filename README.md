@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fritter99
 - 👀 I’m interested in playing vedio games and programming.
 - 🌱 I’m currently learning ML.
-- 💞️ I’m looking to collaborate on ML.
 - 📫 How to reach me :1365201484@qq.com
 
 <!---
